@@ -1,14 +1,16 @@
 # Token Airdrop dApp on Kalp Blockchain
 
+[![Live dApp](https://img.shields.io/badge/Live_App-Vercel-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://kalp-task3.vercel.app)
+[![Portfolio Architecture](https://img.shields.io/badge/Architecture-shivammahajan.com-ff5d01?style=for-the-badge)](https://shivammahajan.com/projects/)
 [![Kalp Blockchain](https://img.shields.io/badge/Blockchain-Kalp_Network-6C5CE7?style=for-the-badge)](https://kalp.studio/)
 [![Go](https://img.shields.io/badge/Smart_Contract-Go%20%28Golang%29-00ADD8?style=for-the-badge&logo=go)](https://golang.org/)
 [![React](https://img.shields.io/badge/Frontend-React%2018-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Deployment](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://kalp-task3.vercel.app)
 
 A decentralized token airdrop and vending machine application built on the Kalp blockchain. Combines a Go-based fungible smart contract (KRC-20 standard) for batch token distribution with a responsive React/TypeScript dApp interface.
 
-Live dApp: [Kalp Airdrop on Vercel](https://kalp-task3.vercel.app/) · [Portfolio](https://shivammahajan.com/)
+* **Live dApp:** **[https://kalp-task3.vercel.app](https://kalp-task3.vercel.app)**
+* **Engineering Portfolio:** **[https://shivammahajan.com/projects/](https://shivammahajan.com/projects/)**
 
 ---
 
